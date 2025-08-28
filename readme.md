@@ -1,2 +1,3 @@
-## Hello, Git!
+## Yooo! Welcome to my guide!
+-Yo! Grace is here!
 -I am adding this branch from 'feature-branch-1'
